@@ -1,4 +1,12 @@
 ### <p align="center">**Bem-Vindo 👋**</p>
+```java 
+Cafe cafe = new Cafe();
+if(cafe.Empty()) {
+    cafe.Drink();
+}else {
+    cafe.Refil();
+ }
+```
 <!--
 **RyanPereiraS/RyanPereiraS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
