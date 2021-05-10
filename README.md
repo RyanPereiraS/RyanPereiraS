@@ -1,5 +1,5 @@
 ### <p align="center">**Bem-Vindo 👋**</p>
-## <p align="center"> Poderia me comprar um <a href="https://www.buymeacoffee.com/ryanpereiras" target="_BLANK">café? :coffee:</a></p>
+## <p align="center"> Poderia me comprar um <a href="https://www.buymeacoffee.com/ryanpereiras" target="_blank">café? :coffee:</a></p>
 
 
 <!--
