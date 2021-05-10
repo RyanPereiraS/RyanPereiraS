@@ -2,9 +2,9 @@
 <p align="center">
   Cafe cafe = new Cafe(); <br>
   if(cafe.Empty()) {<br>
-    cafe.Drink();<br>
+  cafe.Drink();<br>
   }else {<br>
-    cafe.Refil();<br>
+  cafe.Refil();<br>
   }
 </p>
 
