@@ -1,8 +1,8 @@
 ### <p align="center">**Bem-Vindo 👋**</p>
-<p align="center">
-  Cafe cafe = new Cafe(); <br>
-  if(cafe.Empty()) {<br>
-  cafe.Drink();<br>
+<p align="center">Cafe cafe = new Cafe();</p>
+<p align="center">if(cafe.Empty()) {</p>
+<p align="center">  cafe.Drink();</p>
+  
   }else {<br>
   cafe.Refil();<br>
   }
