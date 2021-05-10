@@ -1,4 +1,4 @@
-### <center>**Bem-Vindo 👋**</center>
+### <p align="center">**Bem-Vindo 👋**</p>
 <!--
 **RyanPereiraS/RyanPereiraS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
