@@ -1,12 +1,6 @@
 ### <p align="center">**Bem-Vindo 👋**</p>
-<p align="center">Cafe cafe = new Cafe();</p>
-<p align="center">if(cafe.Empty()) {</p>
-<p align="center">  cafe.Drink();</p>
-  
-  }else {<br>
-  cafe.Refil();<br>
-  }
-</p>
+## <p align="center"> Poderia me comprar um <a href="https://www.buymeacoffee.com/ryanpereiras" target="_BLANK">café? :coffee:</a></p>
+
 
 <!--
 **RyanPereiraS/RyanPereiraS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
