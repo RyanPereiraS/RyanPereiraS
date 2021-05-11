@@ -1,18 +1,13 @@
+#
 ### <p align="center">**Bem-Vindo 👋**</p>
-## <p align="center"> Poderia me comprar um <a href="https://www.buymeacoffee.com/ryanpereiras" target="_blank">café? :coffee:</a></p>
-
-
-<!--
-**RyanPereiraS/RyanPereiraS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <p align="center"> Poderia me comprar um <a href="https://www.buymeacoffee.com/ryanpereiras" target="_blank">café? :coffee:</a></p>
+#
+# Some Infos
+- 🔭 I’m currently working on <a href="https://wannaadoptapet.000webhostapp.com/">Wanna Adopt A Pet?<a> 
+- 🌱 I’m currently learning PHP, Typescript, Angular, Java & SQL.
+- 📫 How to reach me: E-Mail (ryanpereira.profissional@gmail.com)
+# Cool github stats thing
+![RyanPereiraS's github stats](https://github-readme-stats.vercel.app/api?username=RyanPereiraS&show_icons=true&count_private=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPereiraS&hide=html&layout=compact&theme=onedark)
+# Money = more work and projects
+<a href="https://www.buymeacoffee.com/ryanpereiras" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
