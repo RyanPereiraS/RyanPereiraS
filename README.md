@@ -3,7 +3,6 @@
 ### <p align="center"> Poderia me comprar um <a href="https://www.buymeacoffee.com/ryanpereiras" target="_blank">café? :coffee:</a></p>
 #
 # Some Infos
-- 🔭 I’m currently working on <a href="https://wannaadoptapet.000webhostapp.com/">Wanna Adopt A Pet?<a> 
 - 🌱 I’m currently learning PHP, Typescript, Angular, Java & SQL.
 - 📫 How to reach me: E-Mail (ryanpereira.profissional@gmail.com)
 # Cool github stats thing
