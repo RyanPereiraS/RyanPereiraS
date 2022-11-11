@@ -4,7 +4,7 @@
 #
 # Some Infos
 - 🌱 I’m currently learning PHP, Typescript, Angular, Java & SQL.
-- 📫 How to reach me: E-Mail (ryanpereira.profissional@gmail.com)
+- 📫 How to reach me: E-Mail (ryanp@ensight.host)
 # Cool github stats thing
 ![RyanPereiraS's github stats](https://github-readme-stats.vercel.app/api?username=RyanPereiraS&show_icons=true&count_private=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPereiraS&hide=html&layout=compact&theme=onedark)
