@@ -3,7 +3,7 @@
 ### <p align="center"> Poderia me comprar um <a href="https://www.buymeacoffee.com/ryanpereiras" target="_blank">café? :coffee:</a></p>
 #
 # Some Infos
-- 🌱 I’m currently learning PHP, Typescript, Angular, Java & SQL.
+- 🌱 I’m currently learning PHP, Java & SQL.
 - 📫 How to reach me: E-Mail (ryanp@ensight.host)
 # Cool github stats thing
 ![RyanPereiraS's github stats](https://github-readme-stats.vercel.app/api?username=RyanPereiraS&show_icons=true&count_private=true&theme=onedark)
