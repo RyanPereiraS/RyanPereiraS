@@ -71,8 +71,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RyanPereiraS&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="180" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=RyanPereiraS&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanPereiraS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="155" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanPereiraS&theme=github-dark" height="155" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats-ryanpereira.vercel.app/api?username=RyanPereiraS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="155" alt="stats graph"  />
+  <img src="https://gitgraph.devryanp.xyz/graph?username=RyanPereiraS&theme=high-contrast" height="155" alt="activity-graph graph"  />
 </div>
 
 ###
