@@ -30,7 +30,9 @@
 
 ###
 
-<p align="left">I'm Ryan Pereira from Brazil.<br><br>🔭 I’m working as a Community Manager and a developer, with a focus on fostering engagement and collaboration within online communities. I also have experience in software development, specializing in PHP, Java, and SQL database management.<br>📚 I'm currently learning about System Analysis and Development, sharpening my technical and managerial skills to enhance my contributions both in community management and development projects.<br>⚡ In my free time, I enjoy exploring new technologies, engaging in gaming communities, and experimenting with new programming techniques. I'm always looking for ways to merge my passions for tech and community-building.</p>
+<p align="left">I'm Ryan Pereira from Brazil.<br><br>🔭 I’m working as a Community Manager and a developer, with a focus on fostering engagement and collaboration within online communities. I also have experience in software development, specializing in PHP, Java, and SQL database management.
+<br><br>📚 I'm currently learning about System Analysis and Development, sharpening my technical and managerial skills to enhance my contributions both in community management and development projects.
+<br><br>⚡ In my free time, I enjoy exploring new technologies, engaging in gaming communities, and experimenting with new programming techniques. I'm always looking for ways to merge my passions for tech and community-building.</p>
 
 ###
 
