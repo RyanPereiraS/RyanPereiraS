@@ -70,7 +70,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RyanPereiraS&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="180" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=RyanPereiraS&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats-gray-phi.vercel.app?user=RyanPereiraS&theme=dark&border_radius=5&locale=pt_BR&mode=weekly" height="180" alt="streak graph"  />
   <img src="https://github-readme-stats-ryanpereira.vercel.app/api?username=RyanPereiraS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="155" alt="stats graph"  />
   <img src="https://gitgraph.devryanp.xyz/graph?username=RyanPereiraS&theme=high-contrast" height="155" alt="activity-graph graph"  />
 </div>
