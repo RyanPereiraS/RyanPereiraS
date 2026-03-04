@@ -15,9 +15,8 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="![](https://komarev.com/ghpvc/?username=RyanPereiraS&style=for-the-badge&label=VISITANTES&base=1000&abbreviated=true)"  />
+  <img src="https://komarev.com/ghpvc/?username=RyanPereiraS&style=for-the-badge&label=VISITANTES&base=1000&abbreviated=true">
 </div>
 
 ###
